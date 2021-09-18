@@ -8,3 +8,4 @@ If user didn't type in both username and password then the program output: Pleas
 //Password cant not start with numeral value           
 Here is a YouTube video demonstrating it!                      
 https://youtu.be/C7Aha8V7ArU
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/C7Aha8V7ArUE "Video Title")
